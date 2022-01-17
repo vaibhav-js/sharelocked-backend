@@ -2,7 +2,7 @@
   "name": "sharelocked-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/vaibhav-js/sharelocked.git",
+  "repository": "https://github.com/vaibhav-js/sharelocked-backend.git",
   "author": "Vaibhav <vaibhavrajpianist@gmail.com>",
   "license": "MIT",
   "scripts": {
