@@ -12,9 +12,9 @@ async function fetchData() {
             try {
                 fs.unlinkSync(file.path);
                 await file.remove();
-                console.log(`successfully deleted ${file.filename}`);
+                console.log(`Successfully deleted ${file.filename}`);
             } catch(err) {
-                console.log(`error while deleting file ${err} `);
+                console.log(`Error while deleting file ${err} `);
             }
         }
     }
